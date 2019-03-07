@@ -12,5 +12,12 @@ https://coding-factory.tistory.com/244?category=799065
 로그인 -> Create new repository -> git_test 생성 -> ID/git_test 화면
 해당 폴더로 이동 -> 마우스 오른쪽 메뉴 -> Git Bash Here
 -> git bash 창 -> git init, git status, git add ., git commit -m "init commit"
+
+파일 올리기
+git add *  : 깃에 현 폴더의 모든 것을 추가
+git commit "init" : 깃에 ""메시지로 커밋
+git push --set-upstream origin master : 깃허브에 올림
+깃허브 웹페이지에서 추가한 파일 확인 가능
+
 Git Gui -> create new repository -> c:\uses\ds 선택
 
