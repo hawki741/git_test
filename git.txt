@@ -1,0 +1,16 @@
+윈도우버전 Git설치하기 (Git for Windows)
+https://coding-factory.tistory.com/245
+64bit windows 다운로드
+c:\temp
+다운로드한 파일 클릭 -> 설치
+
+홈에서 Git bash 클릭 -> name과 email 설정
+
+GitHub 레파지토리(Repository) 생성 & 소스 올리기
+https://coding-factory.tistory.com/244?category=799065
+회원 가입 : https://github.com/join?plan=free (IE 지원 안됨)
+로그인 -> Create new repository -> git_test 생성 -> ID/git_test 화면
+해당 폴더로 이동 -> 마우스 오른쪽 메뉴 -> Git Bash Here
+-> git bash 창 -> git init, git status, git add ., git commit -m "init commit"
+Git Gui -> create new repository -> c:\uses\ds 선택
+
